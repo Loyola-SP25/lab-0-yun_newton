@@ -2,3 +2,9 @@
 # CS151-Starter-Lab
 
 This lab will get us started with GitHub.
+
+**Names:** Anir Yun and Anna Newton
+
+**Hobbies:**
+1. Piano
+2. Reading
