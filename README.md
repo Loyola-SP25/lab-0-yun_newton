@@ -8,3 +8,12 @@ This lab will get us started with GitHub.
 **Hobbies:**
 1. Piano
 2. Reading
+
+# Classes
+
+- Computer Science
+- Macroeconomics
+- Accounting
+- Global Justice
+- Global Government and International Institutions
+- Theology
